@@ -1,0 +1,29 @@
+Microsoft Visual Studio Solution File, Format Version 11.00
+# Visual Studio 2008
+
+Project("{E16BC9FE-A951-ABA7-10B7-264DF3F14BE4}") = "AlienDefense", "Assembly-CSharp.csproj", "{5194141C-24A8-5624-BAAE-B1EDE689C4A1}"
+EndProject
+Project("{E16BC9FE-A951-ABA7-10B7-264DF3F14BE4}") = "AlienDefense", "Assembly-CSharp-Editor.csproj", "{2782B8EC-AD4C-1652-11BC-4F52C7E3EB7B}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{5194141C-24A8-5624-BAAE-B1EDE689C4A1}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{5194141C-24A8-5624-BAAE-B1EDE689C4A1}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{5194141C-24A8-5624-BAAE-B1EDE689C4A1}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{5194141C-24A8-5624-BAAE-B1EDE689C4A1}.Release|Any CPU.Build.0 = Release|Any CPU
+		{2782B8EC-AD4C-1652-11BC-4F52C7E3EB7B}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{2782B8EC-AD4C-1652-11BC-4F52C7E3EB7B}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{2782B8EC-AD4C-1652-11BC-4F52C7E3EB7B}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{2782B8EC-AD4C-1652-11BC-4F52C7E3EB7B}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(MonoDevelopProperties) = preSolution
+		StartupItem = Assembly-CSharp.csproj
+	EndGlobalSection
+EndGlobal
